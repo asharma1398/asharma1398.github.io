@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
+
+html { 
+    background: url("./assets/background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.content {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 8%;
+    padding: 20px;
+    border-radius: 8px;
+    background: rgb(38, 38, 38);
+    opacity: 0.8;
+
+}
+
+a {
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
